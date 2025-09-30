@@ -1,5 +1,5 @@
 # ControlVAE
-The official realisation for the article "Realistic Controlled Time Series Generation with Variational Autoencoder" at ICDM 2025, Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications
+The official realisation for the article "Realistic Controlled Time Series Generation with Variational Autoencoder" at International Conference on Data Mining (ICDM) 2025, Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications
 
 The citation link will be available later.
 
