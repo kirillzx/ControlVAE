@@ -3,4 +3,4 @@ The official realisation for the article "Realistic Controlled Time Series Gener
 
 The citation link will be available later.
 
-The data is available by the link https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
+The data is available by the [link](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs?select=ETFs)
